@@ -5,5 +5,5 @@ Hi there👋, I'm Kazuhiro Saito(齋藤 主裕).
 
 ### Where to Find Me 👀
 
-✉️ : tosakatwo[at]gmail.com
-✉️ : kasaito[at]lycorp.co.jp
+✉️ : tosakatwo[at]gmail.com  
+✉️ : kasaito[at]lycorp.co.jp  
